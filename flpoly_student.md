@@ -1,16 +1,14 @@
-## First Name Last Name
-Garrett Poling
-### Term Year 
-SUMMER 2021
+## Garrett Poling
+
+### SUMMER 2021 
+
 DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: 
 
-- Course 1
-Intro To Data Science
-- Course 2
-Precalculus
-- Course 3
+| Prefix  | Number  | Name                | Credits |
+|:--------|:--------|:--------------------|:--------|
+| COP     | 2073    |Intro to Data Science| 3       |
+| MAC     | 1147    | Precalculus         | 4       |
 
-- Course 4
 
 **Hobbies:**
 
